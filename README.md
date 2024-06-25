@@ -1,4 +1,8 @@
 ## Data Product Development and Deployment with Streamlit
+
+### Link to Streamlit application:
+https://dssi-app-hth94elrege3mkeswywkpc.streamlit.app/
+
 ### Requirements
 1. Setup Github account
 2. Create virtual environment
